@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300&display=swap");
+
+* {
+    font-family: 'Cairo', sans-serif;
+}
+
+li:hover {
+    transform: scale(2, 3);
+}
+div {
+    background-color: blanchedalmond;
+    background-image: url(AdobeStock_562087864.jpeg)
+
+}
+
+div:hover p{
+    background-color: palevioletred;
+    transform: translate(50px, 100px);
+}
+
+
+
+ul {
+    position: relative;
+
+  }
+
+  ul li {
+    list-style: none;
+    text-align: center;
+    font-size: 20px;
+  }
